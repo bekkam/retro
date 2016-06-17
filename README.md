@@ -4,11 +4,9 @@ Create an inventory system for a multimedia stor such as Borders.  The system wi
 
 Your application should make use of *inheritance*, *polymorphism*, at least one *interface* definition, and at least one *enumeration* (Enum type).
 
-##### Deliverables:
-1. Brief Software Systems Design Document that identifies the key abstractions of your application, and describes the relationships between them.
-2. Your application as a zip file. 
-
 ##### System Design Document
+*Key abstractions of inventory application, and the relationships between them*
+###### Overview
 
 The media inventory application contains the following classes and enumerables: 
 - Maintainable 
