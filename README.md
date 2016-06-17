@@ -2,9 +2,9 @@
 ##### Assignment
 Create an inventory system for a multimedia stor such as Borders.  The system will manage an inventory comprised of CDs, DVDs, and books. The system will allow the user to enter new items into the system, search for and edit existing items, and delete items (CRUD operations).  The input and output can be accomplished by using System objects.   The user interface code will be modularized as a View (or Delegate) component, such that it can easily be swapped out for a different View component.  The initial view will be a text-based console view.  It is recommended that you use the Scanner class to manage keyboard input. The underlying inventory representation will be modularized as a Model component such that it can easily be swapped out for a different Model. The inventory will be persisitent, and it will be maintained using the Properties class.  
 
-Your application should make use of **inheritance**, **polymorphism**, at least one **interface** definition, and at least one **enumeration** (Enum type).
+Your application should make use of *inheritance*, *polymorphism*, at least one *interface* definition, and at least one *enumeration* (Enum type).
 
-Deliverables:
+##### Deliverables:
 1. Brief Software Systems Design Document that identifies the key abstractions of your application, and describes the relationships between them.
 2. Your application as a zip file. 
 
