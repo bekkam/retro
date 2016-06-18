@@ -3,11 +3,11 @@ A multimedia inventory management application written in Java.
 
 
 ## Table of Contents
-- [Part One (Version One)](#part-one-(version-one))
+- [Part One (Version One)](#part-one-version-one)
   - [Assignment](#assignment)
   - [System Design Document](#system-design-document)
-- [Part Two (Version Two)](#part-two-(version-two))
-- [Part Three (Version Three)](#part-three-(version-three))
+- [Part Two (Version Two)](#part-two-version-two)
+- [Part Three (Version Three)](#part-three-version-three)
 
 
 ## Part One (Version One)
