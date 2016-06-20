@@ -64,24 +64,3 @@ Replace the "View" component of your application wth a new view.  The new view w
 
 ## Part Three (Version Three)
 Replace the "Model" component of your application with a new model.  The new model will make use of JDBC to connect to an underlying relational database.  Design a model that supports the functionality of the previous "Model" component.  The new "Model" will interface with the "View" component in the same manner as the previous "View" component.  In addition, incorporate exception handling for SQLExceptions.
-
-##### Screenshots
-*Add inventory*
-
-![v3_add_item]
-(/docs/static/v3_add_item.png)
-
-*Edit inventory*
-
-![v3_edit_item]
-(/docs/static/v3_edit_item.png)
-
-*Search inventory*
-
-![v3_search_item]
-(/docs/static/v3_search_item.png)
-
-*Remove inventory*
-
-![v3_delete_item]
-(/docs/static/v3_delete_item.png)
